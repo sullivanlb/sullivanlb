@@ -6,7 +6,7 @@
 
 🌌 Passionné de sciences et d'astrologie à mes temps perdus.
 
-💻 Je suis également passionné par la programmation, tous mes dépôts sont des projets personnels.
+💻 Je suis également passionné par la programmation, tous mes dépôts sont des projets personnels ou des projets fait dans le cadre scolaire.
 
 ## 📭 Me contacter :
 
