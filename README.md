@@ -2,9 +2,9 @@
 
 ## ✨ Qui suis-je ?
 
-🎓 Actuellement en 2ème année dans le [DUT Informatique de Vannes](https://www.univ-ubs.fr/fr/index.html) (option développement d'application).
+🎓 Actuellement développeur .NET pour l'entreprise Isatech[https://www.isatech.fr/].
 
-🌌 Passionné de sciences et d'astrologie à mes temps perdus.
+🌌 Passionné de beaucoup de choses.
 
 💻 Je suis également passionné par la programmation, tous mes dépôts sont des projets personnels ou des projets fait dans le cadre scolaire.
 
