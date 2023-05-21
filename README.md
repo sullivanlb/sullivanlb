@@ -2,7 +2,7 @@
 
 ## ✨ Qui suis-je ?
 
-🎓 Actuellement développeur .NET pour l'entreprise Isatech[https://www.isatech.fr/].
+🎓 Actuellement développeur .NET pour l'entreprise [Isatech](https://www.isatech.fr/).
 
 🌌 Passionné de beaucoup de choses.
 
