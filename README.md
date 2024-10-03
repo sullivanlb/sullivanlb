@@ -1,2 +1,2 @@
 # Sullivan LB
-[![@sullivan_lb's Holopin board](https://www.holopin.io/@sullivanlb)](https://www.holopin.io/@sullivanlb)
+[![An image of @sullivanlb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sullivanlb)](https://holopin.io/@sullivanlb)
